@@ -1,1 +1,1 @@
-# openbook-oauth-lib
+# OpenBook OAuth Libs
